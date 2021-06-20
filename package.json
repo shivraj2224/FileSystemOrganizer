@@ -1,0 +1,14 @@
+{
+  "name": "file_system_organizer",
+  "version": "1.0.0",
+  "description": "It organizes the files in the given folder in a proper manner",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Shivraj Hulwan",
+  "license": "ISC",
+  "bin": {
+    "pep": "main.js"
+  }
+}
